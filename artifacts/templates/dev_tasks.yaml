@@ -1,0 +1,18 @@
+project:
+  name: ""
+  architecture_ref: "architecture.yaml"
+
+tasks:
+  - id: DEV-001
+    title: ""
+    owner: Developer Agent
+    status: todo
+    related_requirements: []
+    notes: ""
+
+progress:
+  completed: []
+  in_progress: []
+  blocked: []
+
+blockers: []
