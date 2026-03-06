@@ -1,0 +1,31 @@
+project:
+  name: ""
+  based_on_request: "request.yaml"
+
+system_context:
+  goal: ""
+  boundaries:
+    includes: []
+    excludes: []
+
+modules:
+  - name: ""
+    responsibility: ""
+    interfaces: []
+
+data_flow:
+  - from: ""
+    to: ""
+    payload: ""
+
+technology:
+  stack: []
+  rationale: []
+
+risks:
+  - id: R-001
+    description: ""
+    severity: low
+    mitigation: ""
+
+validation_strategy: []

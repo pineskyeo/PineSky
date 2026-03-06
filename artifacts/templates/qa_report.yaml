@@ -1,0 +1,25 @@
+project:
+  name: ""
+  reviewed_at: ""
+
+coverage:
+  acceptance_criteria:
+    - id: AC-001
+      result: blocked
+      evidence: ""
+
+defects:
+  - id: BUG-001
+    severity: medium
+    summary: ""
+    impact: ""
+    status: open
+
+quality_summary:
+  passed_checks: []
+  failed_checks: []
+  blocked_checks: []
+
+release_recommendation:
+  decision: no_go
+  rationale: ""

@@ -1,0 +1,24 @@
+project:
+  name: ""
+  owner: ""
+  requested_at: ""
+
+objective: ""
+
+scope:
+  in_scope: []
+  out_of_scope: []
+
+requirements:
+  functional: []
+  non_functional: []
+
+acceptance_criteria:
+  - id: AC-001
+    description: ""
+    validation_method: ""
+
+success_metrics: []
+
+assumptions: []
+open_questions: []
